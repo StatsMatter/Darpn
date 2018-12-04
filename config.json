@@ -1,0 +1,8 @@
+{
+  "GCLOUD_PROJECT": "darpn-224312",
+  "CLOUD_BUCKET": "darpn-224312",
+  "DATA_BACKEND": "datastore",
+  "OAUTH2_CLIENT_ID": "746228902784-rrcvpokngqoh9jq3hhqhsc3g13qtb5jb.apps.googleusercontent.com",
+  "OAUTH2_CLIENT_SECRET": "fkgtoS-vj0Hd1hUEc0Aql8qL",
+  "OAUTH2_CALLBACK": "http://localhost:8080/auth/google/callback"
+}
